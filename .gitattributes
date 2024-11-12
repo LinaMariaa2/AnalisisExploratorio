@@ -1,1 +1,2 @@
 *.csv filter=lfs diff=lfs merge=lfs -text
+data/Ciudadan_a_Digital_20241110.csv filter=lfs diff=lfs merge=lfs -text
